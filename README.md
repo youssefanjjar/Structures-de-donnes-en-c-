@@ -49,7 +49,7 @@ Ce projet implémente plusieurs structures de données en langage C pour simuler
 
 ## resume
 
-| **Exercise**   | **File(s)**                                 |
+| **Exercise**   | **Fichiers**                                 |
 |----------------|---------------------------------------------|
 | **Exercice 1** | `labyrinthe.c`                              |
 | **Exercice 2** | `appels_fonctions.c`                        |
