@@ -56,7 +56,7 @@ Ce projet implémente plusieurs structures de données en langage C pour simuler
 | **Exercice 3** | `file_priorite.c`                           |
 | **Exercice 4** | `historique_commandes.c`                    |
 | **Exercice 5** | `arrets_bus.c`                              |
-| **code commun **| `pile.c`, `pile.h`, `arrets_bus.h`, `historique_commandes.h`, `file_priorite.h` |
+| **code commun**| `pile.c`, `pile.h`, `arrets_bus.h`, `historique_commandes.h`, `file_priorite.h` |
 
 ## Prérequis
 
