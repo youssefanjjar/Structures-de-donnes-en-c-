@@ -67,34 +67,27 @@ Installation
 ------------
 
 1.  Clone ce dépôt :
-```
-    bash
-
-
-    `git clone https://github.com/ton-utilisateur/projet-structures-donnees.git`
+```bash
+    git clone https://github.com/youssefanjjar/Structures-de-donnes-en-c-.git
 	```
 
 2.  Navigue dans le répertoire du projet :
 ```
     bash
-
-
-    `cd projet-structures-donnees`
+    cd projet-structures-donnees
 	
 	```
 
 3.  Compile le projet avec GCC :
 ```
     bash
-
-
-    `gcc -Wall -std=c99 labyrinthe.c file_priorite.c historique_commandes.c arrets_bus.c pile.c -o projet`
+    gcc -Wall -std=c99 labyrinthe.c file_priorite.c historique_commandes.c arrets_bus.c pile.c -o projet
 ```
 4.  Exécute le programme compilé :
 ```
     bash
 
-    `./projet`
+    ./projet
 	
 	```
 
@@ -104,9 +97,7 @@ Structure des fichiers
 Le projet est organisé de la manière suivante :
 ```
 bash
-
-
-`projet-structures-donnees/
+projet-structures-donnees/
 ├── labyrinthe.c               # Code pour la simulation du labyrinthe
 ├── appels_fonctions.c         # Code pour la simulation des appels de fonctions
 ├── file_priorite.c            # Code pour la gestion des patients dans une file à priorité
@@ -118,7 +109,7 @@ bash
 ├── file_priorite.h            # Définition des structures et fonctions pour la file à priorité
 ├── pile.h                     # Définition des structures et fonctions pour la pile
 ├── README.md                  # Documentation du projet
-└── Makefile                   # Fichier pour automatiser la compilation (optionnel)`
+└── Makefile                   # Fichier pour automatiser la compilation (optionnel)
 ```
 ### Description des fichiers :
 
