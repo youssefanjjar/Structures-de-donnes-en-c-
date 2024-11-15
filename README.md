@@ -47,6 +47,17 @@ Ce projet implémente plusieurs structures de données en langage C pour simuler
     - `arret_precedent` : Affiche l'arrêt précédent.
     - `revenir_au_depart` : Ramène le bus au premier arrêt.
 
+## resume
+
+| **Exercise**   | **File(s)**                                 |
+|----------------|---------------------------------------------|
+| **Exercice 1** | `labyrinthe.c`                              |
+| **Exercice 2** | `appels_fonctions.c`                        |
+| **Exercice 3** | `file_priorite.c`                           |
+| **Exercice 4** | `historique_commandes.c`                    |
+| **Exercice 5** | `arrets_bus.c`                              |
+| **code commun **| `pile.c`, `pile.h`, `arrets_bus.h`, `historique_commandes.h`, `file_priorite.h` |
+
 ## Prérequis
 
 - **Langage** : C
